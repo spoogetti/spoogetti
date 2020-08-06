@@ -18,9 +18,9 @@ I'm pretty basic in everything because of my education but I focus on PHP (Larav
 
 ### 🌎 My "completed" projects
 - My blog -> haha you thought
-- Sample VueJs app (please wait the heroku nodejs backend may take some time to start) -> https://spoogetti.github.io/movies-front-dawin/#/
-- Sample ThreeJS app with physics (please wait it is really badly optimized (your computer may burn)) -> https://spoogetti.github.io
-- Sample React native app (please wait the heroku nodejs backend may take some time to start) -> https://mmc-react.vercel.app/
+- [Sample VueJs app (please wait the heroku nodejs backend may take some time to start)](https://spoogetti.github.io/movies-front-dawin/#/)
+- [Sample ThreeJS app with physics (please wait it is really badly optimized (your computer may burn))](https://spoogetti.github.io)
+- [Sample React native app (please wait the heroku nodejs backend may take some time to start)](https://mmc-react.vercel.app/)
 - Sample Angular app -> may upload on netlify
 
 P.S. : all the projects are private but you may ask me for an access to the projects you have interests in
