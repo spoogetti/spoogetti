@@ -14,8 +14,8 @@ I'm pretty basic in everything because of my education but I focus on PHP (Larav
 - [Sample VueJs app (please wait the heroku nodejs backend may take some time to start)](https://spoogetti.github.io/movies-front-dawin/#/)
 - [Sample ThreeJS app with physics (please wait it is really badly optimized (your computer may burn))](https://spoogetti.github.io)
 - [Sample React native app (please wait the heroku nodejs backend may take some time to start)](https://mmc-react.vercel.app/)
-- [Sample PhaserJS app (you shouldn't have to wait on this one)](https://spoogetti.github.io/informatique_debranchee/)
-- Sample Angular app -> may upload on netlify
+- [Sample PhaserJS app (you shouldn't have to wait on this one, it's a group project)](https://spoogetti.github.io/informatique_debranchee/)
+- Sample Angular app -> may upload on netlify  
 P.S. : all the projects are private but you may ask me for an access to the projects you have interests in
 
 <!--
