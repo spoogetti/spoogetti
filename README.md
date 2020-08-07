@@ -22,15 +22,17 @@ P.S. : all the projects are private but you may ask me for an access to the proj
 - 🤔 I’m looking for help with how to prevent people from uploadind zip bombs in my Wordpress site (serious)  <br><br>
   
   ![](https://komarev.com/ghpvc/?username=spoogetti&label=Invaderz) <br>
+  
+  ### 📉 My stats (please ignore, all my projects are private 😥)
+[![Romain's github stats](https://github-readme-stats.vercel.app/api?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
+  
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
+-->
 </details>
 
 ### 📫 How to reach me:
   - <a href="mailto:romain.roubaix@u-bordeaux.fr" alt="Contact me">romain.roubaix@u-bordeaux.fr</a> <br>
   - <a href="https://www.linkedin.com/in/romain-roubaix/" alt="Linkedin">Linkedin</a>
 
-### 📉 My stats (please ignore, all my projects are private 😥)
-[![Romain's github stats](https://github-readme-stats.vercel.app/api?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
-  
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
--->
+
