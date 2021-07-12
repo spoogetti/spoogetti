@@ -1,5 +1,5 @@
 # Hello there, I'm Romain, a FullStack Web developer 👋
-I'm pretty basic in everything because of my education but I focus on PHP (Laravel, CakePHP, Symfony) and Javascript (NodeJS, VueJS), I am an [aspiring t-shaped developer](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/).
+I'm pretty basic in everything because of my education but I focus on PHP (Laravel, CakePHP, Symfony) and Javascript (NodeJS, VueJS).
 
 ### 💼 Where I am currently working at/as
 [AWAM Creative agency: Fullstack Web Developer](https://www.agence-awam.fr/)
@@ -16,14 +16,14 @@ P.S. : all the projects are private but you may ask me for an access to the proj
 <details>
  <summary>Additional facts</summary>
     <br>
-- 🔭 I’m currently working on sharpening my Web developer skills  <br>
+- 🔭 Long term, vague goal: sharpening my Web developer skills  <br>
 - 🌱 I’m currently learning Elixir <br>
-- 💭 I'd like to learn python, go and ruby in this order <br>
-- 🤔 <br><br>
+- 💭 I'd like to learn go and ruby <br>
+- 🤔 <br>I am an [aspiring t-shaped developer](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)<br>
   
   ![](https://komarev.com/ghpvc/?username=spoogetti&label=Invaderz) <br>
   
-  ### 📉 My stats (please ignore, all my projects are private 😥)
+  ### 📉 My stats (please ignore, most of my projects are private 😥)
 [![Romain's github stats](https://github-readme-stats.vercel.app/api?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
@@ -32,7 +32,7 @@ P.S. : all the projects are private but you may ask me for an access to the proj
 </details>
 
 ### 📫 How to reach me:
-  - <a href="mailto:romain.roubaix@u-bordeaux.fr" alt="Contact me">r.roubaix@agence-awam.fr</a> <br>
+  - <a href="mailto:r.roubaix@agence-awam.fr" alt="Contact me">r.roubaix@agence-awam.fr</a> <br>
   - <a href="https://www.linkedin.com/in/romain-roubaix/" alt="Linkedin">Linkedin</a>
 
 
