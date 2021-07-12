@@ -19,7 +19,7 @@ P.S. : all the projects are private but you may ask me for an access to the proj
 - 🔭 Long term, vague goal: sharpening my Web developer skills  <br>
 - 🌱 I’m currently learning Elixir <br>
 - 💭 I'd like to learn go and ruby <br>
-- 🤔 <br>I am an [aspiring t-shaped developer](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)<br>
+- 🤔 I am an [aspiring t-shaped developer](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)<br>
   
   ![](https://komarev.com/ghpvc/?username=spoogetti&label=Invaderz) <br>
   
