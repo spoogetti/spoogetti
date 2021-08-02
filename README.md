@@ -5,7 +5,7 @@ I'm pretty basic in everything because of my education but I focus on PHP (Larav
 [AWAM Creative agency: Fullstack Web Developer](https://www.agence-awam.fr/)
 
 ### 🌎 My "completed" projects
-- [My __simple__ blog](https://spageti.dev/)
+- [My __simple__ blog](https://blog.spageti.dev/)
 - [Sample VueJs app (heroku may take some time to start)](https://spoogetti.github.io/movies-front-dawin/#/)
 - [Sample ThreeJS app with physics (really badly optimized)](https://spoogetti.github.io)
 - [Sample React native app (heroku may take some time to start)](https://mmc-react.vercel.app/)
