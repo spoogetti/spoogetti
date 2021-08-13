@@ -10,7 +10,7 @@ I'm pretty basic in everything because of my education but I focus on PHP (Larav
 - [Sample ThreeJS app with physics (really badly optimized)](https://spoogetti.github.io)
 - [Sample React native app (heroku may take some time to start)](https://mmc-react.vercel.app/)
 - [Sample PhaserJS app (unfinished group project)](https://spoogetti.github.io/informatique_debranchee/)
-- Sample Angular app -> may upload someday ¯\\_(ツ)_/¯
+- Sample Angular app -> may upload someday ¯\\\_(ツ)\_/¯  
 P.S. : all the projects are private but you may ask me for an access to the projects you have interests in
 
 <details>
