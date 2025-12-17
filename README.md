@@ -8,16 +8,17 @@ I'm pretty basic in everything because of my education but I focus on PHP (Larav
  <summary>Additional facts</summary>
     <br>
 - 🔭 Long term, vague goal: sharpening my Web developer skills  <br>
-- 🌱 I’m currently learning Symfony <br>
-- 💭 I'd like to learn go and ruby <br>
+- 🌱 I’m currently learning Web Python <br>
+- 💭 I'd like to learn Ts <br>
 - 🤔 I am an [aspiring t-shaped developer](https://letslearnabout.net/blog/what-it-is-a-t-shaped-developer-and-why-you-should-be-one/)<br>
   
   ![](https://komarev.com/ghpvc/?username=spoogetti&label=Invaderz) <br>
-  
+
+ <!--
   ### 📉 My stats (please ignore, most of my projects are private 😥)
 [![Romain's github stats](https://github-readme-stats.vercel.app/api?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
   
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spoogetti)](https://github.com/anuraghazra/github-readme-stats)
 ### 🌎 My "completed" projects
 - [My __simple__ blog](https://blog.spageti.dev/) ### broken by design
@@ -31,7 +32,7 @@ P.S. : all the projects are private but you may ask me for an access to the proj
 </details>
 
 ### 📫 How to reach me:
-  - <a href="mailto:romain.roubaix+github@halocation.fr" alt="Contact me">romain.roubaix@halocation.fr</a> <br>
+  - <a href="mailto:romain.roubaix+github@halocation.fr" alt="Contact me">r.roubaix@ha.group</a> <br>
   - <a href="https://www.linkedin.com/in/romain-roubaix/" alt="Linkedin">Linkedin</a>
 
 
